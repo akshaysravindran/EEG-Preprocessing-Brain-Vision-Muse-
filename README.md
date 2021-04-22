@@ -23,5 +23,5 @@ Plot the time series on the frontal (highest effect of ocular artifact) and occi
 
 
 3) Artifact Subspace Reconstruction <br/>
-Plot the time series and the spectrogram to check how good the data is cleaning. Cutoff for ASR is critical, too low/ conservative value can end up distorting even the cleaner part whereas too lax of a cutoff might not remove artifacts. Empirically identify the best threshold.
+Plot the time series and the spectrogram to check how good the data is cleaning. Cutoff for ASR is critical, too low/ conservative value can end up distorting even the cleaner part whereas too lax of a cutoff might not remove artifacts. Empirically identify the best threshold. I typically go for values in the range 10 - 30 if using ICA later. If using only ASR (low density system), I tend to use more conservative values. 
 <br/><img src='/images/asr.png'>
