@@ -1,9 +1,10 @@
 # EEG-Preprocessing-Brain-Vision-Muse-
+<p style="font-family: Garamond; font-size:14pt; font-style:normal">
 This is a script based preprocessing flowchart to handle artifacts in EEG collected using either brain vision or Muse EEG system
 
 The overall flowchart I typically prefer for brainvision 32-64 channel system is given below <br/><img src='/images/flowchart.png'>
 
-## The most important thing to note is that these steps are not universal. It really depends on the study, what specifically you are looking for and how your data looks like. Then step zero is always looking at the data in raw form. This is a general framework which might work for most studies, but some of these steps might not be ideal for certain studies 
+ **The most important thing to note is that these steps are not universal. It really depends on the study, what specifically you are looking for and how your data looks like. Then step zero is always looking at the data in raw form. This is a general framework which might work for most studies, but some of these steps might not be ideal for certain studies 
 
 
 <br/>
