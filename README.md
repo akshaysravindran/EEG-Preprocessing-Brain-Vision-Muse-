@@ -1,4 +1,4 @@
-# EEG-Preprocessing-Brain-Vision-Muse-
+# EEG-Preprocessing-Brain-Vision data
 <p style="font-family: Garamond; font-size:14pt; font-style:normal">
 This is a script based preprocessing flowchart to handle artifacts in EEG collected using either brain vision or Muse EEG system
 <br/><br/>
