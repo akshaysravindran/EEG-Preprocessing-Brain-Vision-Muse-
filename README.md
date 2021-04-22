@@ -7,9 +7,10 @@ This is a script based preprocessing flowchart to handle artifacts in EEG collec
   
 The overall flowchart I typically prefer for brainvision 32-64 channel system is given below <br/><img src='/images/flowchart.png'> <br/><br/>
 
-
 <br/>
-Some key steps and pitfalls or sanity checks to look for are<br/>
+<br/>
+Some key steps and pitfalls or sanity checks to look for are<br/><br/>
+
 1) Downsampling <br/>
 Make sure the sampling rate to which you are downsampling is greater than twice of the frequency of interest (Nyquist Criterion). Figure below shows how reducing the sampling rate can severely distort the signal if done without care
 
