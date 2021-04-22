@@ -28,6 +28,8 @@ Plot the time series on the frontal (highest effect of ocular artifact) and occi
 Plot the time series and the spectrogram to check how good the data is cleaning. Cutoff for ASR is critical, too low/ conservative value can end up distorting even the cleaner part whereas too lax of a cutoff might not remove artifacts. Empirically identify the best threshold. I typically go for values in the range 10 - 30 if using ICA later. If using only ASR (low density system), I tend to use more conservative values. 
 <br/><img src='/images/asr.png'><br/>
 
+<br/><img src='/images/ASR_cleaning.png'><br/>
+^^This figure is from Muse headset and not brain vision. Added to explain the process. 
 
 5) Common Average Reference <br/>
 If using CAR before ICA, add a channel of zeros to account for the rank 
