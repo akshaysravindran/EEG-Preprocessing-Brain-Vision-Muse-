@@ -1,4 +1,4 @@
-%% EEG Pre-Processing Tutorial
+%% EEG Pre-Processing Script for removing artifacts from EEG collected using brain vision system 
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                                                                        %
 %                  EEG Preprocessing Tutorial Code                       %
