@@ -5,7 +5,7 @@ This is a script based preprocessing flowchart to handle artifacts in EEG collec
  **The most important thing to note is that these steps are not universal. It really depends on the study, what specifically you are looking for and how your data looks like. Then step zero is always looking at the data in raw form. This is a general framework which might work for most studies, but some of these steps might not be ideal for certain studies
 <br/><br/>
   
-The overall flowchart I typically prefer for brainvision 32-64 channel system is given below <br/><br/><img src='/images/flowchart.png'> <br/><br/>
+The overall flowchart I typically prefer for brainvision 32-64 channel system is given below <br/><br/><img src='/images/flowchart.png'width=300 align=center>> <br/><br/>
 
 
 Some key steps and pitfalls or sanity checks to look for are<br/><br/>
